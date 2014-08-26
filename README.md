@@ -1,4 +1,6 @@
-Copyright (C) 20140826  PinLiang Chen
+Copyright (C) 
+20140826  
+PinLiang Chen
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
